@@ -15,12 +15,12 @@
       <!-- Ranges through content/post/*.md -->
       {{ range (.Paginator 10).Pages }}
           <div class="post-summary">
-              <p class="h2"><a href="{{.Permalink}}">{{.Title}}</a></p>
+              <p class="h2"><a href="{{.RelPermalink}}">{{.Title}}</a></p>
               <p><strong>{{ .Date.Format "Jan. 2, 2006" }} | {{ .WordCount }} Words | {{.ReadingTime}}-{{ "minutes" | singularize }} read</strong></p>
               <img src="{{.Params.SummaryImage}}" style="max-width: 50%; max-height:50%; text-align:center;" class="mx-auto d-block rounded">
 
               <p class="lead">{{.Summary}}</p>
-              <p class="text-right"><a href="{{.Permalink}}">Read more...</a>
+              <p class="text-right"><a href="{{.RelPermalink}}">Read more...</a>
               <hr class="my-5">
           </div>
       {{ end }}
