@@ -1,12 +1,12 @@
 +++
 title = "Joyful Procurement: The Art of Digital-Services Acquisition"
-date = "2018-11-21"
-summaryImage = "https://cdn-images-1.medium.com/max/800/0*oMF46OFKHJsCwjwm"
+date = "2018-11-15"
+summaryImage = "/images/blog-images/joypro-book-announcement.jpg"
 +++
 
 _TL;DR — I’m writing a book on how government officials should effectively acquire digital services. If you’re interested in learning more or want to show support for the effort, **please consider [signing up for my newsletter](https://mailchi.mp/0a8a0cdd8c65/joypro)**!_
 
-![Photo by JESHOOTS.COM on Unsplash](https://cdn-images-1.medium.com/max/2000/0*oMF46OFKHJsCwjwm)
+{{< figure src="/images/blog-images/joypro-book-announcement.jpg" >}}
 
 Upon leaving government, I knew that one of the things I would be passionate about would be teaching public servants about how to effectively buy digital services. I wrote at the time:
 
@@ -18,6 +18,6 @@ Since then, I have been co-facilitating the [Digital IT Acquisition Professional
 
 Over the next few months, I plan to conduct additional research, write, and edit the book. But before I spend a ton of time and energy doing it, I want to make sure that folks will actually buy it, and more importantly, read it.
 
-So, if you are an acquisition professional who wants to learn more about buying digital services. Or if you’ve seen effective acquisition of digital services out “in the wild.” Or if you’re just a friend who wants to show support for this crazy idea of mine, **please [consider signing up for my newsletter](https://mailchi.mp/0a8a0cdd8c65/joypro)**.
+So, if you are an acquisition professional who wants to learn more about buying digital services. Or if you’ve seen effective acquisition of digital services out “in the wild.” Or if you’re just a friend who wants to show support for this crazy idea of mine, please [consider signing up for my newsletter](https://mailchi.mp/0a8a0cdd8c65/joypro).
 
 It’ll only take a few seconds of your time, but it will mean the world to me. And, hopefully, the book will make it easier for acquisition professionals throughout federal, state, and local governments to learn how to best procure digital services!

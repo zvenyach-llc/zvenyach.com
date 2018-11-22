@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main>
+  <div class="container">
+    <article>
+        <header class="bg-primary">
+          <p class="h1 p-3" style="color:#fff">{{.Title}}</p>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        <div class="container" style="max-width:740px">
+          {{.Content}}
+        </div>
+    </article>
+
+    <div class="container" style="max-width:740px">
+      <!-- Ranges through content/post/*.md -->
+      {{ range (.Paginator 10).Pages }}
+          <div class="post-summary">
+              <p class="h2"><a href="{{.Permalink}}">{{.Title}}</a></p>
+              <p><strong>{{ .Date.Format "Jan. 2, 2006" }} | {{ .WordCount }} Words | {{.ReadingTime}}-{{ "minutes" | singularize }} read</strong></p>
+              <img src="{{.Params.SummaryImage}}" style="max-width: 50%; max-height:50%; text-align:center;" class="mx-auto d-block rounded">
+
+              <p class="lead">{{.Summary}}</p>
+              <p class="text-right"><a href="{{.Permalink}}">Read more...</a>
+              <hr class="my-5">
+          </div>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}

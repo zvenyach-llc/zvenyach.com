@@ -2,12 +2,12 @@
 title = "How can I find out what companies charge the government for certain services?"
 date = 2018-11-21T20:19:28-05:00
 publishDate = ""
-summaryImage = "https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=37e53fb0167c9adfc4e3add2ef50580f&w=1000&q=80"
+summaryImage = "/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg"
 +++
 
 One of the more inside-baseball parts of government contracting is conducting market research to predict your competitors' cost. If you've been in the game for a while, you generally know what others are charging and where you stack up. But, what if you're new and trying to assess your position? Or, what if you're just interested in finding out how much stuff should cost?
 
-{{< figure src="https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=37e53fb0167c9adfc4e3add2ef50580f&w=1000&q=80" caption="Some pro tips on finding pricing data for government services" class="figure">}}
+{{< figure src="/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg" caption="Some pro tips on finding pricing data for government services" class="figure">}}
 
 First, the bad news. You actually can't get the *real* prices paid. There are reasons that I won't get into here, but the bottom line is that companies use a couple of different techniques to obfuscate the actual cost of services provided.
 
