@@ -1,0 +1,63 @@
+
+      <div class="container" style="max-width:740px">
+        <section class="">
+          <p class="h1 text-center display-3">Services</p>
+          <div class="row">
+            <div class="col-md-2">
+              <img class="card-img-top" src="/images/noun_strategic_approach.svg" alt="Strategic Approach" height=150px>
+            </div>
+            <div class="col-md-10">
+              <div class="card border-0">
+                <!-- Icon from https://thenounproject.com/term/strategic-approach/967919/ -->
+                <div class="card-body">
+                  <h2 class="card-title">Strategic advice on winning with government</h2>
+                  <p class="card-text">Working with government is hard and confusing, and organizations need good strategies to win.</p>
+                  <a href="/services/organizations/" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr>
+          <div class="row">
+            <div class="col-md-2">
+              <img class="card-img-top" src="/images/noun_speaker_on_stage.svg" alt="Speaker on Stage" height=150px>
+            </div>
+
+            <div class="col-md-10">
+              <div class="card border-0">
+                <!-- Icon from https://thenounproject.com/term/speaker-on-stage/854677/ -->
+
+                <div class="card-body">
+                  <h2 class="card-title">Teaching government how to build, buy, and borrow better technology</h2>
+                  <p class="card-text">As a longtime public servant, I know the pain associated with outdated technology and poorly designed interfaces.</p>
+                  <a href="/services/government/" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr>
+        </section>
+      </div>
+
+      <div class="container">
+        <section>
+          <p class="h1 text-center display-3">Blog</p>
+          <div class="row">
+          <!-- to be repeated -->
+          {{ range first 3 ( where .Pages "Section" "blog")}}
+
+            <div class="col-lg-4">
+              <div class="card">
+                <img class="card-img-top" src="{{.Params.summaryImage}}" alt="Card image cap" style="max-height: 172px; min-height: 150px; object-fit: cover;">
+                <div class="card-body">
+                  <h5 class="card-title">{{.Params.title}}</h5>
+                  <p class="card-text">{{.Summary | truncate 250 }}</p>
+                  <a href="{{.URL}}" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+          </div>
+          <p class="my-3"><a href="/blog/">View all blog posts</a></p>
+        </section>
+      </div>

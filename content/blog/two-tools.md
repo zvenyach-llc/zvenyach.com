@@ -9,7 +9,8 @@ Identifying qualified vendors to deliver digital services and effectively monito
 The first, Steps to Performance-Based Acquisition, is an online guide for federal acquisition professionals to use when acquiring professional services. The second, “Accelerate,” is a book written by Dr. Nicole Forsgren, Jez Humble, and Gene Kim, about DevOps and measuring software-delivery performance.
 
 In this post, I discuss those two resources, and how they can be used together improve digital-services acquisition by helping select high-performing vendors and monitoring performance through a capabilities-based approach.
-Steps to Performance-Based Acquisition
+
+## Steps to Performance-Based Acquisition
 
 The Federal Acquisition Regulations generally “requires the use of performance-based acquisitions for services to the maximum extent practicable.” FAR 37.000. Accordingly, performance-based acquisitions are a core part of the work of a digital-services acquisition professional in government. Despite the rule, successful implementation of performance-based acquisitions is challenging. To address that challenge, the General Services Administration has created a resource called the Steps to Performance-Based Acquisition (“SPBA”) to aid in the government’s use of performance-based acquisitions.
 
@@ -20,16 +21,17 @@ The Eight Steps to Performance-Based Acquisition (from https://pba.app.cloud.gov
 
 As the background section to the SPBA explains:
 
-    “A successful acquisition answers four questions: what do I need, when do I need it, who needs to get it to me, and how do I know it’s good when I get it?”
+> “A successful acquisition answers four questions: what do I need, when do I need it, who needs to get it to me, and how do I know it’s good when I get it?”
 
 Despite the simplicity of the principles of performance-based acquisition, one of the principal challenges facing the government in the delivery of digital services has been answering that last question “how do I know it’s good when I get it?” Defining what successful digital-service delivery looks like has been an ongoing challenge, often answered with varying hand-waves around organizational maturity.
 
 Fortunately, as we’ll see in the next section, we now have research that helps us answer that question with a little more clarity.
-Accelerate: The Science of Lean Software and DevOps
+
+## Accelerate: The Science of Lean Software and DevOps
 
 When he left 18F in 2017, I asked Jez Humble what he was going to do next. He alluded at the time to some research that was underway with a few of his colleagues, and doing some consulting work. Then, in March 2018, Dr. Nicole Forsgren, Jez, and Gene Kim published Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, and my head damn near exploded.
 
-    Over our four-year research program we have been able to identify the capabilities that drive performance in software delivery and impact organizational performance, and we have found that they work for all types of organizations.
+> Over our four-year research program we have been able to identify the capabilities that drive performance in software delivery and impact organizational performance, and we have found that they work for all types of organizations.
 
 This was the book that I had been missing: a concise, research-based description of what high-performing teams looked like, and a method by which an organization could measure improvement without resort to organizational “maturity models.”
 
@@ -43,34 +45,39 @@ As such, even though the authors are careful to avoid claims around causation, i
 
 In other words, simply asking a team about their change and deployment process can tell you a lot about the quality of the team’s product.
 https://itrevolution.com/book/accelerate/
-Using Accelerate during the Steps to Performance-Based Acquisition
+
+## Using Accelerate during the Steps to Performance-Based Acquisition
 
 Now that we have both SPBA and Accelerate, it is possible for acquisition professionals to begin to assess their organization’s capabilities when acquiring digital services as well as to assess industry partners’ capabilities during delivery.
 
 Here are at least three ways that the Accelerate framework can be used for better government contracts.
-Improved market research through capabilities assessment
+
+### Improved market research through capabilities assessment
 
 During the pre-solicitation phase, the Accelerate framework can improve market research. As the SPBA explains for Step 3, market research is where acquisition teams must learn about potential vendors and is “vital to conducting an effective performance-based acquisition.” Usually, when doing market research, acquisition teams will rely on techniques such as Requests for Information (RFI), industry days, “sources sought” notices, and pre-solicitation conferences.
 
 But Step 3 also explains that One-on-One Meetings with Industry are a particularly effective approach to market research:
 
-    “While many may not realize it, one-on-one meetings with industry leaders are not only permissible…they are more effective than pre-solicitation or pre-proposal conferences.”
+> “While many may not realize it, one-on-one meetings with industry leaders are not only permissible…they are more effective than pre-solicitation or pre-proposal conferences.”
 
 Armed with the Accelerate framework, acquisition teams can ask vendors to describe not only their experience, but to specifically probe into understand the vendors’ approach to delivery. In those one-on-one meetings, the acquisition team can get a sense of whether prospective vendors have the needed capabilities to deliver quality software.
 
 Doing so not only will help identify the right acquisition strategy, but it can reveal where the government may need to expend particular energy to shore up weaknesses and play to strengths. By way of specific example, many delivery teams that traditionally work with government are hindered by inadequate tooling for continuous delivery and heavy change-control processes. Knowing this, by spending time before the acquisition to invest in better approaches to tooling and delivery patterns, the government can improve software quality even before the contract is awarded.
-Using capabilities as part of vendor’s technical evaluation criteria
+
+### Using capabilities as part of vendor’s technical evaluation criteria
 
 Even though Accelerate relies significantly on survey data to help develop its conclusions, there is no reason why the government shouldn’t use the framework to develop better evaluation criteria for contracts. Indeed, Accelerate provides an excellent lens to explore teams’ past performance and technical approach.
 
 Rather than relying on certifications or maturity models, Accelerate can provide insight into examine teams’ actual capabilities to deliver. Knowing, for example, that “lean product development capabilities predict Westrum organizational culture, software delivery performance, organizational performance, and less burnout,” it is reasonable to include a vendor’s product-management approach as part of the technical-evaluation criteria.
-Using capabilities to enable better performance management
+
+### Using capabilities to enable better performance management
 
 Finally, after the contract is awarded, the real work of delivery begins. The SPBA makes plain that effective performance-based acquisition doesn’t stop after the award is made.
 
-    “Correctly managing performance may be the most important step to successful performance-based acquisitions.”
+> “Correctly managing performance may be the most important step to successful performance-based acquisitions.”
 
 But even though managing performance may be hard, it’s virtually impossible unless there is a shared understanding of what successful performance actually means. And that’s where Accelerate comes to the rescue; using the capabilities approach described in the book, you can both assess the team’s approach and capabilities, but you can also measure the quality of the product. Using DevOps and lean-product metrics to assess how things are going can help make sure that teams are continuously improving, and consistently shipping quality software.
-Conclusion
+
+## Conclusion
 
 Separately, the SPBA and Accelerate are important documents. The SPBA helps acquisition professionals break down the key parts of performance-based acquisition, and provides resources about how to best conduct one. Accelerate helps organizations identify, measure, and improve software delivery performance through DevOps and lean practices. Together, though, they are greater than the sum of the parts. For those who work in government digital-services acquisition (and those who teach it), both the SPBA and Accelerate should be considered essential resources.

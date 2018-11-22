@@ -1,8 +1,6 @@
 +++
-title = "About"
+title = "About Dave Zvenyach"
 +++
-
-# About Dave Zvenyach
 
 Dave Zvenyach is an attorney, strategist, author, full-stack software developer, and innovative former government executive who helps businesses and government work smarter, together.
 

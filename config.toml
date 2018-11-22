@@ -1,3 +1,8 @@
 baseURL = "http://zvenyach.com/"
 languageCode = "en-us"
 title = "Zvenyach LLC website"
+
+
+
+
+summaryLength = "25"

@@ -6,11 +6,9 @@
 </div>
 
 <div class="container" style="max-width:740px">
-<section id="blog-post">
-  <p><a href="/blog">« Back to Blog List</a></p>
-  <p class="h1 mt-5" id="title">{{ .Title }}</p>
+<section id="main">
+  <p class="h1 my-5" id="title">{{ .Title }}</p>
   <div>
-    <p class="mb-5">{{ .Date.Format "Jan. 2, 2006" }} | {{ .WordCount }} Words | {{.ReadingTime}}-{{ "minutes" | singularize }} read</p>
     <article id="content">
       {{ .Content }}
     </article>

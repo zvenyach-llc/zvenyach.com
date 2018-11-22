@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container">
+  <section class="bg-primary">
+    <p class="h1 p-3" style="color:#fff">{{.Section}}</p>
+  </section>
+</div>
+
+<div class="container" style="max-width:740px">
+<section id="main">
+  <p><a href="/services/">« Back to Services Offered</a></p>
+  <p class="h1 mt-5" id="title">{{ .Title }}</p>
+  <div>
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+</section>
+</div>
+{{ end }}
+
+{{ define "footer" }}
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/davez', text: 'Schedule time with me', color: '#ee971a', branding: true});</script>
+<!-- Calendly badge widget end -->
+{{ end }}
