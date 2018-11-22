@@ -15,13 +15,21 @@ Now, the good news. In most cases,[^1] you *can* tell what a company claims thei
 
 So how do you find that information? I look in three places: GSA's [eLibrary](https://www.gsaelibrary.gsa.gov/), GSA [Advantage](https://www.gsaadvantage.gov/), and GSA's [CALC](https://calc.gsa.gov). Why are there three places, you might be wondering? That's for another day, but you'll need to buy me a bourbon neat. For now, let's look at how to find the rates in those places.
 
-In eLibrary, the best trick is to see if you know your competition. If you're looking for a particular company, there's a [Contractor Directory](https://www.gsaelibrary.gsa.gov/ElibMain/contractorList.do?contractorListFor=A) (as of November 2018, it's underneath the search bar and a little to the left). Suppose you're looking up the contract for `'APPS' CONSULTANTS INC., THE`.[^3] It's super hard to find, but if you look for the little document image in the `Contractor T&Cs/Pricelist` column (screenshot below), it'll actually pop up a Word document or PDF. In that document, somewhere, there will be a table with labor rates. In our example, a Project Manager from `'Apps' Consultants Inc., The` has an hourly labor rate of $110 in the first year of the contract. It goes up to $126.72 in the last year of the contract.
+In eLibrary, the best trick is to see if you know your competition. If you're looking for a particular company, there's a [Contractor Directory](https://www.gsaelibrary.gsa.gov/ElibMain/contractorList.do?contractorListFor=A) (as of November 2018, it's underneath the search bar and a little to the left).
 
-[Screenshot here]
+{{< figure src="/images/blog-images/gsa-elibrary-screenshot.png" caption="A screenshot of GSA eLibrary" >}}
+
+Suppose you're looking up the contract for `'APPS' CONSULTANTS INC., THE`.[^3] It's super hard to find, but if you look for the little document image in the `Contractor T&Cs/Pricelist` column (screenshot below), it'll actually pop up a Word document or PDF. In that document, somewhere, there will be a table with labor rates. In our example, a Project Manager from `'Apps' Consultants Inc., The` has an hourly labor rate of $110 in the first year of the contract. It goes up to $126.72 in the last year of the contract.
+
+{{< figure src="/images/blog-images/gsa-elibrary-screenshot-2.png" caption="A screenshot of GSA eLibrary with emphasis on the Pricelist" >}}
 
 If you're not sure who your competition is, you can use the word search functionality of GSA Advantage. I usually just go straight to the ["Advanced Search"](https://www.gsaadvantage.gov/advantage/s/advncdSearchSrvsEnter.do) functionality because it has filtering and exact phrase searches that I use a lot. But, otherwise it's the same deal as with eLibrary: search for the term (or the company name) and then download the catalog/pricelist. On the pricelist, look for the table with the rates. Boom.
 
-Finally, there's CALC. Compared to GSA eLibrary and GSA Advantage, CALC is a user-interface godsend. Type in the type of labor rate you're looking for and it'll give you a range of prices, and even a standard deviation in either direction. Unfortunately, though, the data hasn't always been as reliably complete as I'd like it to be and it doesn't have some of the filtering capabilities (socioeconomic filters in particular) that can be useful in market research. So I use CALC in conjunction with GSA eLibrary and GSA Advantage. But it's not quite a substitute, yet.
+{{< figure src="/images/blog-images/gsa-advantage-screenshot.png" caption="A screenshot of GSA Advantage!" >}}
+
+Finally, there's CALC. Compared to GSA eLibrary and GSA Advantage, CALC is a user-interface godsend. Type in the type of labor rate you're looking for and it'll give you a range of prices, and even a standard deviation in either direction. But CALC is *only* useful for labor rates, so you can't look up products or services (such as training services). And although the interface is amazing, the data hasn't always been as reliably complete as I'd like it to be and it doesn't have some of the filtering capabilities (socioeconomic filters in particular) that can be useful in market research. So I use CALC in conjunction with GSA eLibrary and GSA Advantage. But it's not quite a substitute, yet.
+
+{{< figure src="/images/blog-images/calc-screenshot.png" caption="A screenshot of CALC. Much nicer, right?">}}
 
 In sum, even though each is limited in its own way, these three sites have a treasure trove of data that you can use to find about your competition's price, if you know what you're looking for. Fortunately, with just a little practice, you can become pretty adept at using these sites. And that superpower may even help you and your organization have an edge on the competition.
 
