@@ -5,14 +5,12 @@
         <header class="bg-primary">
           <p class="h1 p-3" style="color:#fff">{{.Title}}</p>
         </header>
-        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
         <div class="container" style="max-width:740px">
           {{.Content}}
         </div>
     </article>
 
     <div class="container" style="max-width:740px">
-      <!-- Ranges through content/post/*.md -->
       {{ range .Pages }}
       <div class="row mt-5">
         <div class="col-md-2">
