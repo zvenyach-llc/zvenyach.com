@@ -5,7 +5,6 @@
         <header class="bg-primary">
           <p class="h1 p-3" style="color:#fff">{{.Title}}</p>
         </header>
-        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
         <div class="container" style="max-width:740px">
           {{.Content}}
         </div>
@@ -13,7 +12,6 @@
 
     <div class="container" style="max-width:740px">
       <ul>
-      <!-- Ranges through content/post/*.md -->
       {{ range .Pages }}
           <li>
               <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
