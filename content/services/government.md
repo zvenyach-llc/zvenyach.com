@@ -4,6 +4,7 @@ subtitle = "As a longtime public servant, I know the pain associated with outdat
 published = "true"
 ServiceImage = "noun_speaker_on_stage.svg"
 summary = "I’m a former govvie with over a decade with experience on what works and doesn’t work for bringing innovation and modern technology into government. I currently offer education and training services to federal, state, and local governments officials who want to make sense of the changing technology landscape and integrate modern best practices in your agencies."
+images = ["noun_speaker_on_stage.svg"]
 +++
 
 <blockquote class="blockquote text-center">
