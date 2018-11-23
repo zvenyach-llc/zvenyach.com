@@ -1,7 +1,8 @@
 +++
 title = "Joyful Procurement: The Art of Digital-Services Acquisition"
 date = "2018-11-15"
-summaryImage = "/images/blog-images/joypro-book-announcement.jpg"
+cover = "/images/blog-images/joypro-book-announcement.jpg"
+images = ["/images/blog-images/joypro-book-announcement.jpg"]
 +++
 
 _TL;DR — I’m writing a book on how government officials should effectively acquire digital services. If you’re interested in learning more or want to show support for the effort, **please consider [signing up for my newsletter](https://mailchi.mp/0a8a0cdd8c65/joypro)**!_

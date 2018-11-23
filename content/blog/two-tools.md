@@ -1,7 +1,8 @@
 +++
 title = "Two tools that can lead to better digital-services acquisition outcomes"
 date = "2018-10-31"
-summaryImage = "/images/blog-images/accelerate-book-cover.jpeg"
+cover = "/images/blog-images/accelerate-book-cover.jpeg"
+images = ["/images/blog-images/accelerate-book-cover.jpeg"]
 +++
 
 Identifying qualified vendors to deliver digital services and effectively monitoring delivery by those vendors is a significant challenge for government acquisition professionals. Although there are numerous resources that can help government teams do a better job of building and buying technology, in this post, I highlight two new tools that should be considered indispensable for the digital-services expert.

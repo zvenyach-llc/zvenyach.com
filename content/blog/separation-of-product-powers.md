@@ -1,7 +1,8 @@
 +++
 title = "The separation of [product] powers"
 date = "2018-10-16"
-summaryImage = "/images/blog-images/chess-board.jpg"
+cover = "/images/blog-images/chess-board.jpg"
+images = ["/images/blog-images/chess-board.jpg"]
 +++
 
 > “But what is government itself, but the greatest of all reflections on human nature?” James Madison, Federalist #51
