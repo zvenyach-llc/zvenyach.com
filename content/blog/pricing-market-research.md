@@ -38,4 +38,4 @@ In sum, even though each is limited in its own way, these three sites have a tre
 
 [^2]: I say *generally* because there are a few exceptions that, like the exception in the previous footnote, is not helpful for the current analysis but I want to avoid blanket assertions.
 
-[^3]: Amazingly, it's the first result on the list. Special kudos to the person who realized that a single quotation and setting off the definite article in its name as a first name would get you on the list. This is, no joke, an impressive bit of bureaucracy hacking.
+[^3]: Amazingly, it's the first result on the list. Special kudos to the person who realized that a single quotation and setting off the definite article in its name as a first name would get you first on the list. This is, no joke, an impressive bit of bureaucracy hacking.
