@@ -1,7 +1,6 @@
 baseURL = "https://zvenyach.com/"
 languageCode = "en-us"
-title = "Zvenyach LLC website"
-
+title = "Zvenyach LLC"
 
 [params]
   description = "Zvenyach LLC: Helping businesses and government work smarter, together."
@@ -10,3 +9,7 @@ title = "Zvenyach LLC website"
 
 [taxonomies]
   series = "series"
+
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+[author]
+      name = "V. David Zvenyach"
