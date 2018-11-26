@@ -16,6 +16,10 @@
         }
     });
     </script>
+    <!-- Open graph -->
+    {{ template "_internal/opengraph.html" . }}
+    <!-- Twitter Cards -->
+    {{ template "_internal/twitter_cards.html" . }}
   </head>
   <body>
     Redirecting to <a href="{{.Params.NewURL}}">{{.Params.NewURL}}</a>
