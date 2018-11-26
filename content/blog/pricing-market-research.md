@@ -6,7 +6,7 @@ cover = "/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg"
 images = ["/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg"]
 +++
 
-One of the more inside-baseball parts of government contracting is conducting market research to predict your competitors' cost. If you've been in the game for a while, you generally know what others are charging and where you stack up. But, what if you're new and trying to assess your position? Or, what if you're just interested in finding out how much stuff should cost?
+One of the more inside-baseball parts of government contracting is conducting market research to predict your competitors' cost. If you've been in the game for a while, you generally know what others are charging and where you stack up. But, what if you're new and trying to assess your position? Or, what if you're just interested in finding out how much stuff should cost? In this post, I offer some tips on some of the publicly available tools I use that can help with market research on pricing for government.
 
 {{< figure src="/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg" caption="Some pro tips on finding pricing data for government services" class="figure">}}
 
