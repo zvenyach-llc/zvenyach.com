@@ -6,13 +6,23 @@ cover = "/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg"
 images = ["/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg"]
 +++
 
-One of the more inside-baseball parts of government contracting is conducting market research to predict your competitors' cost. If you've been in the game for a while, you generally know what others are charging and where you stack up. But, what if you're new and trying to assess your position? Or, what if you're just interested in finding out how much stuff should cost? In this post, I offer some tips on some of the publicly available tools I use that can help with market research on pricing for government.
+One of the more inside-baseball parts of government contracting is conducting market research to predict your competitors' cost. If you've been in the game for a while, you generally know what others are charging and where you stack up. But, what if you're new and trying to assess your position? Or, what if you're just interested in finding out how much stuff should cost? In this post, I offer some tips on some of the publicly available tools I use that can help with market research on pricing for government.[^1]
 
 {{< figure src="/images/blog-images/photo-1523540939399-141cbff6a8d7.jpg" caption="Some pro tips on finding pricing data for government services" class="figure">}}
 
-First, the bad news. You actually can't get the *real* prices paid. There are reasons that I won't get into here, but the bottom line is that companies use a couple of different techniques to obfuscate the actual cost of services provided.
+First, the bad news. You actually can't get the *real* prices paid at the item or service level. There are reasons that I won't get into here, but the bottom line is that companies use a couple of different techniques to obfuscate the actual cost of services provided.
 
-Now, the good news. In most cases,[^1] you *can* tell what a company claims their *highest* government rate is if they're on a GSA Schedule. Under the [Price Reduction Clause](https://www.contractorsperspective.com/compliance/applying-the-price-reduction-clause-in-gsa-schedule-contracts/) for GSA Schedule contracts, a contractor generally[^2] agrees to give the best rate to the government, and the contractor has to adjust its price offerings if the contractor "grants more favorable discounts or terms and conditions" to a commercial customer. Given this point of information, you can generally know the *top end* of what a government contractor will charge for an hourly rate.
+That said, there is good news. In most cases,[^2] you *can* get meaningful information through a variety of sources and put together meaningful estimates.
+
+First, and perhaps most importantly, even though you can't easily find granular line-item data for most contracts (more on that in a bit), you can easily find the total price for a given contract using publicly available data on [USASpending.gov](https://usaspending.gov), which in turn draws from the [Federal Procurement Data System](https://fpds.gov). Both of these sites are core parts of the professional government-procurement toolkit.
+
+{{< figure src="/images/blog-images/usaspending-screenshot.png" caption="Bookmark this website. It's so good!" class="figure" >}}
+
+Using this as a starting point, you can often reverse-engineer pricing information if you have access to the original solicitation, which you can sometimes find online on [FedBizOpps](https://fbo.gov). If you can't find it there, you can use the [Freedom of Information Act](https://foia.gov) to gain access to contract information, including [in some cases](https://www.insidegovernmentcontracts.com/2018/10/new-cases-confirm-foia-exemption-4-protects-line-item-pricing-information/) line-item-pricing information.
+
+Using these tools and related methods are the stock and trade of procurement professionals who are serious about winning specific contracts with known competition.
+
+But if you're looking for _ballpark_ line-item pricing information on labor rates, then there are three other tools that can give you a high-level perspective. That's because, even though you can't easily discover what the lowest cost a company charges the government for a particular item or service, you *can* tell what a company claims their *highest* government rate is, if they're on a GSA Schedule. Under the [Price Reduction Clause](https://www.contractorsperspective.com/compliance/applying-the-price-reduction-clause-in-gsa-schedule-contracts/) for GSA Schedule contracts, a contractor generally[^3] agrees to give the best rate to the government, and the contractor has to adjust its price offerings if the contractor "grants more favorable discounts or terms and conditions" to a commercial customer. Given this point of information, you can generally know the *top end* of what a government contractor will charge for an hourly rate.
 
 So how do you find that information? I look in three places: GSA's [eLibrary](https://www.gsaelibrary.gsa.gov/), GSA [Advantage](https://www.gsaadvantage.gov/), and GSA's [CALC](https://calc.gsa.gov). Why are there three places, you might be wondering? That's for another day, but you'll need to buy me a bourbon neat. For now, let's look at how to find the rates in those places.
 
@@ -32,10 +42,12 @@ Finally, there's CALC. Compared to GSA eLibrary and GSA Advantage, CALC is a use
 
 {{< figure src="/images/blog-images/calc-screenshot.png" caption="A screenshot of CALC. Much nicer, right?">}}
 
-In sum, even though each is limited in its own way, these three sites have a treasure trove of data that you can use to find about your competition's price, if you know what you're looking for. Fortunately, with just a little practice, you can become pretty adept at using these sites. And that superpower may even help you and your organization have an edge on the competition.
+In sum, even though each tool -- USASpending.gov, FPDS, FOIA, GSA eLibrary, GSA Advantage, and CALC -- is limited in its own way, there is a treasure trove of data that you can use to find about your competition's price, if you know what you're looking for. Fortunately, with just a little practice, you can become pretty adept at using these sites. And that superpower may even help you and your organization have an edge on the competition.
 
-[^1]: I say *most cases* because there's a nuanced exception associated with the [Transaction Data Reporting ("TDR") pilot program](https://www.federalregister.gov/documents/2016/06/23/2016-14728/general-services-administration-acquisition-regulation-gsar-transactional-data-reporting) that I won't get into here but may one day fundamentally alter how industry and the government reports transaction-level data. For now, though, TDR isn't going to be all that useful in answering the main question, so I simply note it and move on.
+[^1]: Although it may go without saying, let me offer the caveat that you shouldn't rely exclusively on these tools when putting together a response to a government
 
-[^2]: I say *generally* because there are a few exceptions that, like the exception in the previous footnote, is not helpful for the current analysis but I want to avoid blanket assertions.
+[^2]: I say *most cases* because there's a nuanced exception associated with the [Transaction Data Reporting ("TDR") pilot program](https://www.federalregister.gov/documents/2016/06/23/2016-14728/general-services-administration-acquisition-regulation-gsar-transactional-data-reporting) that I won't get into here but may one day fundamentally alter how industry and the government reports transaction-level data. For now, though, TDR isn't going to be all that useful in answering the main question, so I simply note it and move on.
 
-[^3]: Amazingly, it's the first result on the list. Special kudos to the person who realized that a single quotation and setting off the definite article in its name as a first name would get you first on the list. This is, no joke, an impressive bit of bureaucracy hacking.
+[^3]: I say *generally* because there are a few exceptions that, like the exception in the previous footnote, is not helpful for the current analysis but I want to avoid blanket assertions.
+
+[^4]: Amazingly, it's the first result on the list. Special kudos to the person who realized that a single quotation and setting off the definite article in its name as a first name would get you first on the list. This is, no joke, an impressive bit of bureaucracy hacking.
