@@ -11,7 +11,7 @@ images = ["noun_speaker_on_stage.svg"]
   <p class="mb-0"><em>    As a longtime public servant, I know the pain associated with outdated technology and poorly designed interfaces.</em></p>
 </blockquote>
 
-I’m a former govvie with over a decade with experience on what works and doesn’t work for bringing innovation and modern technology into government. I currently offer education and training services to federal, state, and local governments officials who want to make sense of the changing technology landscape and integrate modern best practices in your agencies.
+I’m a former govvie with over a decade of experience on what works and doesn’t work for bringing innovation and modern technology into government. I currently offer education and training services to federal, state, and local governments officials who want to make sense of the changing technology landscape and integrate modern best practices in your agencies.
 
 If you are interested in working with me, either as a prime contractor or as a government official,* please [grab time on my calendar](https://calendly.com/davez/virtual-tea-coffee).
 
