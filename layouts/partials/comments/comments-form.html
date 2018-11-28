@@ -4,13 +4,13 @@
       <p class="h2">Leave a comment</p>
       <!-- Comment -->
       <div class="form-group">
-        <textarea class="form-control form-control-sm" id="commentFormCommentTextarea" rows="4" required></textarea>
+        <textarea name="comment" class="form-control form-control-sm" id="commentFormCommentTextarea" rows="4" required></textarea>
       </div>
       <!-- Name -->
       <div class="form-group row">
         <label for="commentFormNameControlInput" class="col-sm-2 col-form-label col-form-label-sm">Your name</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control form-control-sm" id="commentFormNameControlInput" placeholder="John Doe" required>
+          <input name="user name" type="text" class="form-control form-control-sm" id="commentFormNameControlInput" placeholder="John Doe" required>
         </div>
       </div>
 
@@ -18,9 +18,11 @@
       <div class="form-group row">
         <label for="commentFormEmailControlInput" class="col-sm-2 col-form-label col-form-label-sm">Your email address</label>
         <div class="col-sm-10">
-          <input type="email" class="form-control form-control-sm" id="commentFormEmailControlInput" placeholder="name@example.com" required>
+          <input name="user email" type="email" class="form-control form-control-sm" id="commentFormEmailControlInput" placeholder="name@example.com" required>
         </div>
       </div>
+
+       <input type="hidden" name="blog-post" value="{{.Params.title}}">
 
       <!--Submit -->
       <div class="text-right">
