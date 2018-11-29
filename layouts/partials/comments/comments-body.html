@@ -1,0 +1,7 @@
+{{ range $elem_index, $elem_val := where $.Site.Data.test.comments ".post" .RelPermalink }}
+  {{ if eq $elem_index 0}}<p class="h2">Comments</p>{{ end }}
+  <blockquote class="blockquote">
+    <p class="mb-0">{{ .comment }}</p>
+    <footer class="blockquote-footer">{{ .username }} ({{ dateFormat "Jan. 2, 2006" .datestamp }})</footer>
+  </blockquote>
+{{ end }}

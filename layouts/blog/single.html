@@ -23,7 +23,13 @@
 </div>
 
 <section class="bg-light">
-  {{partial "comments/comments-form.html" .}}
+  <article id="comments">
+    <div class="container py-4" style="max-width:740px">
+      {{ partial "comments/comments-body.html" . }}
+      {{ partial "comments/comments-form.html" . }}
+    </div>
+  </article>
+
 </section>
 
 {{ end }}
