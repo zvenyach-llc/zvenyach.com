@@ -17,7 +17,19 @@
       {{ .Content }}
     </article>
   </div>
-  <p><a href="/blog">« Back to Blog List</a></p>
 </section>
+<p><a href="/blog">« Back to Blog List</a></p>
+
 </div>
+
+<section class="bg-light">
+  <article id="comments">
+    <div class="container py-4" style="max-width:740px">
+      {{ partial "comments/comments-body.html" . }}
+      {{ partial "comments/comments-form.html" . }}
+    </div>
+  </article>
+
+</section>
+
 {{ end }}
