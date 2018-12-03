@@ -8,6 +8,8 @@ cover = "/images/blog-images/fitchburg-profile.png"
 
 When the news of an update to [USASpending.gov](https://usaspending.gov) came out at the end of November 2018, I went a bit overboard on the superlatives:
 
+<!--more-->
+
 {{< tweet 1068633951684710401 >}}
 
 But the truth is that the new features add to an already powerful tool for companies who are in the government contracting and grantmaking space. In this post, I focus on one new feature -- the **Recipient Profile** feature -- to illustrate how you might use it.
