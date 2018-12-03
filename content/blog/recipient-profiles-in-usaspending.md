@@ -56,11 +56,11 @@ In addition to the transaction volume over time, the recipient profile provides 
 
 This feature is particularly useful when doing [market research](/blog/pricing-market-research/) as part of developing an acquisition strategy or whether you're evaluating potential teaming arrangements in federal contracting.
 
-## What's still to come
+## There's still more to come
 
 In Even though the tool is incredibly powerful, the linking between the recipient tool and underlying awards data seems to be a work-in-progress. I imagine that, eventually, you'll be able to click and drill down to individual awards from within the profile, and _vice versa_. But for now, the tool is a window into what's to come.
 
-So, what's the third cool thing I refer to in my blog post title? And to that end, because USASpending is an API-driven web application, if you look under the hood, it [looks like there's much more to come with the new API version](https://api.usaspending.gov/api/v2/recipient/duns/d9fe644d-d231-ccfe-f705-66f86c48f5f6-P/?year=all):
+So, what's the third cool thing I refer to in my blog post title? I suspected that, because USASpending is an API-driven web application, if you look under the hood, there might be a new API endpoint. And it [looks like there's much more to come with the new API version](https://api.usaspending.gov/api/v2/recipient/duns/d9fe644d-d231-ccfe-f705-66f86c48f5f6-P/?year=all):
 
 {{< figure src="/images/blog-images/undocumented-api.png" class="figure" alt="A screenshot of the undocumented API" caption="Yes, this is an as-of-yet undocumented API endpoint for recipient data." >}}
 
