@@ -1,9 +1,9 @@
 +++
 title = "How you can use the Recipient Profile feature of USASpending.gov"
 date = 2018-12-03
-draft = "true"
-images = [""]
-cover = ""
+draft = "false"
+images = ["/images/blog-images/fitchburg-profile.png"]
+cover = "/images/blog-images/fitchburg-profile.png"
 +++
 
 When the news of an update to [USASpending.gov](https://usaspending.gov) came out at the end of November 2018, I went a bit overboard on the superlatives:
