@@ -18,7 +18,7 @@ But the truth is that the new features add to an already powerful tool for compa
 
 Before diving in, just to remind you, USAspending.gov is the "official source for spending data for the U.S. Government." After a dramatic revamp in 2017 as a result of the DATA Act, it now allows you to "follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses."
 
-Well, one of the ways that USASpending.gov does that is let you see who actually gets that money in what they call the "Recipient Profile."
+Well, one of the ways that USASpending.gov does that is to let you see who actually gets that money in what they call the "Recipient Profile."
 
 To find the recipient profile, you'll need to navigate to the USASpending.gov website and look for the ["Profiles" menu option](https://www.usaspending.gov/#/recipient). From there, you'll see a large-ish table that lets you search by Recipient Name or DUNS number. What's a recipient?
 
@@ -60,7 +60,7 @@ This feature is particularly useful when doing [market research](/blog/pricing-m
 
 ## There's still more to come
 
-In Even though the tool is incredibly powerful, the linking between the recipient tool and underlying awards data seems to be a work-in-progress. I imagine that, eventually, you'll be able to click and drill down to individual awards from within the profile, and _vice versa_. But for now, the tool is a window into what's to come.
+Even though the tool is incredibly powerful, the linking between the recipient tool and underlying awards data seems to be a work-in-progress. I imagine that, eventually, you'll be able to click and drill down to individual awards from within the profile, and _vice versa_. But for now, the tool is a window into what's to come.
 
 So, what's the third cool thing I refer to in my blog post title? I suspected that, because USASpending is an API-driven web application, if you look under the hood, there might be a new API endpoint. And it [looks like there's much more to come with the new API version](https://api.usaspending.gov/api/v2/recipient/duns/d9fe644d-d231-ccfe-f705-66f86c48f5f6-P/?year=all):
 
