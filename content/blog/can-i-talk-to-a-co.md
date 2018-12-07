@@ -25,8 +25,8 @@ But seriously, debunking this myth, along with a number of other "myths" about g
 
 So, why do these myths persist? A couple of reasons: (1) after you've formally submitted a proposal to the government, different rules apply to communications with regard to that proposal; and (2) contracting officers are only [one part of the puzzle](/blog/separation-of-product-powers/), and so "can't talk to you" often really means "I don't want to talk to you because I can't really help you."
 
-With regard that last reason, most contracting officers -- like other government officials -- are busy and can't possibly entertain every company's mass-mailing email or meeting request. Getting in can be hard, and when people get stoned, they assume there's a rule against talking. And most people do it wrong.
+With regard to that last reason, most contracting officers -- like other government officials -- are busy and can't possibly entertain every company's mass-mailing email or meeting request. Getting in can be hard, and when people get stoned, they assume there's a rule against talking. And most people do it wrong.
 
 To that end, when you _do_ pitch to government, it's important to understand what the folks on the receiving end really need to hear from you. And to do _that_ well requires good strategy.
 
-Have you heard that you can't talk to government? What has worked well in communicating with government. Let me know in the comments below!
+Have you heard that you can't talk to government? What has worked well in communicating with government? Let me know in the comments below!
