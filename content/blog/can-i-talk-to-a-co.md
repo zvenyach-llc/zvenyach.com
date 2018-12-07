@@ -11,7 +11,7 @@ Am I allowed to pitch my product to government? Isn't it illegal to propose idea
 
 If you've thought that you are somehow restricted from providing information to the government, even pitching the government, I've got great news for you: **unless you've already submitted a formal proposal, you can talk to whomever you want**!
 
-Really? Yes, here's [the rule in the Federal Acquisition Regulations (FAR)])https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2015_2.html#wp1125233:
+Really? Yes, here's [the rule in the Federal Acquisition Regulations](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2015_2.html#wp1125233):
 
 > Exchanges of information among all interested parties, from the earliest identification of a requirement through receipt of proposals, are encouraged.
 
