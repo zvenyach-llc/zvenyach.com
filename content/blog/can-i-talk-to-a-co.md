@@ -1,8 +1,8 @@
 ---
 title: "Can I talk to a Contracting Officer?"
 date: 2018-12-07T07:11:27-06:00
-draft: "true"
-publishDate: ""
+draft: "false"
+publishDate: "2018-12-07"
 images: [""]
 cover: ""
 ---
