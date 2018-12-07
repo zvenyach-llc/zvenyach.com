@@ -4,8 +4,8 @@ title = "Zvenyach LLC"
 
 [params]
   description = "Zvenyach LLC: Helping businesses and government work smarter, together."
-  images = ["/images/Zvenyach-Logo.png"]
-  title = "Zvenyach LLC's website"
+  images = ["https://zvenyach.com/images/Zvenyach-Logo.png"]
+  title = "Zvenyach LLC"
 
 [taxonomies]
   series = "series"
