@@ -13,8 +13,8 @@
     <div class="container" style="max-width:740px">
       {{ range .Pages }}
       <div class="row mt-5">
-        <div class="col-md-2">
-          <img class="card-img-top" src="/images/{{.Params.ServiceImage}}" alt="{{.Params.ServiceDescription}}" height=150px>
+        <div class="col-md-2 text-center">
+          <img class="" src="/images/{{.Params.ServiceImage}}" alt="{{.Params.ServiceDescription}}" style="max-height:150px;">
         </div>
         <div class="col-md-10">
           <a href="{{.RelPermalink}}"><p class="h1">{{.Title}}</p></a>
