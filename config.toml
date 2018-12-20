@@ -13,3 +13,6 @@ title = "Zvenyach LLC"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 [author]
       name = "V. David Zvenyach"
+
+[context.deploy-preview]
+    command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
