@@ -14,5 +14,5 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 [author]
       name = "V. David Zvenyach"
 
-[context.deploy-preview]
+[context.preview]
     command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
