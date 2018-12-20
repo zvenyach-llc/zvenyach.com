@@ -1,7 +1,7 @@
 ---
 title: "Which clause should I use for buying custom open-source software?"
 date: 2018-12-20T10:20:50-06:00
-draft: "true"
+draft: "false"
 publishDate: "2018-12-20"
 images: ["/images/blog-images/choosing-data-rights-clauses.png"]
 cover: "/images/blog-images/choosing-data-rights-clauses.png"
