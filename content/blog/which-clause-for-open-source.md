@@ -63,3 +63,5 @@ And if you're *still* not sure, here are two good default rules:
 And one more: if you're *still still* not sure, ask your Office of General Counsel because I'm not your lawyer!
 
 If you're interested in practical tips like these, [join my mailing list](https://zvenyach.com/signup) and look out for updates on my forthcoming book: [Joyful Procurement](https://zvenyach.com/blog/joyful-procurement-announcement).
+
+Disagree with my analysis? Or have a different perspective on when to use which clause? Let me know in the comments below!
