@@ -49,7 +49,7 @@ To understand why, it's worth remembering that open-source licenses necessarily 
 
 > [The Government] intends that any data or deliverable created as a result of the work performed under this order be made available under a free and open-source license.
 
-When the vendor creates FOSS pursuant to the contract, the question of title is irrelevant because the government and the public enjoy the FOSS Freedoms.
+When the vendor creates FOSS pursuant to the contract, the question of title is irrelevant because the government and the public enjoy the FOSS Freedoms, and the Government can go ahead and use the General rights in data clause.
 
 The decision about who holds title only *really* matters when the government does not require the vendor to use an open-source license as part of the performance of the contract. In such cases, the Special Works clause is valuable because it explicitly provides that "[t]he contract may specify the purposes and conditions (including time limitations) under which the data may be used, released, or reproduced other than for contract performance." Although this provision is really intended to *prevent* public distribution of data, the clause works just as well for *publishing open source* directly.
 
