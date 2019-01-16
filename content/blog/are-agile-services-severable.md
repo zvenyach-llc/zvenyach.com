@@ -1,7 +1,7 @@
 ---
 title: "Are agile services severable?"
 date: 2019-01-16T12:26:17-05:00
-draft: "true"
+draft: "false"
 publishDate: ""
 images: [""]
 cover: ""
