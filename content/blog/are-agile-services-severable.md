@@ -1,6 +1,6 @@
 ---
 title: "Are agile services severable?"
-date: 2019-01-16T12:26:17-05:00
+date: 2019-01-31
 draft: "false"
 publishDate: ""
 images: [""]
@@ -9,11 +9,11 @@ cover: ""
 
 Fiscal law and "color of money" issues are pretty wonky important aspects of government procurement. And one particularly wonky issue that comes up from time to time relates to whether a service is "severable." Today I tackle a question that seems as-of-yet unresolved: is software delivery using agile methodologies a severable service?
 
-Understanding whether a service is severable or not is important because the answer can dramatically affect how an agency obligates money for that service. If a service is severable, the agency can only obligate funds for "services to be performed during the time period of availability of the appropriation to be obligated." In other words, if you expect to deliver a service in a future fiscal year, you need to wait until _that fiscal year_ for the money to be available. If the service is nonseverable, however, the "the entire cost of the nonseverable service is properly charged to a current appropriation, _despite the fact that performance may extend into future fiscal years_." (emphasis added).
+Understanding whether a service is severable or nonseverable is important because the answer can dramatically affect how an agency obligates money for that service. If a service is severable, the agency can only obligate funds for "services to be performed during the time period of availability of the appropriation to be obligated." In other words, if you expect to deliver a service in a future fiscal year, you need to wait until _that fiscal year_ for the money to be available. If the service is nonseverable, however, the "the entire cost of the nonseverable service is properly charged to a current appropriation, _despite the fact that performance may extend into future fiscal years_." (emphasis added).
 
 In other words, from the perspective of continuity in delivery, a nonseverable service is advantageous because it allows for using existing money to cover future fiscal years.
 
-On the other hand, whether a service is severable or nonseverable can also dramatically affect the ability of the government to use incremental-funding approaches: "severable services contracts may be incrementally funded, while nonseverable services contracts must be fully funded at the time of the award of the contract." If you want to "smooth" your costs across multiple fiscal years, a severable service allows for funding only when the need arises in the fiscal year. In other words, from the perspective of incremental-funding, a severable service is advantageous.
+On the other hand, whether a service is severable can also dramatically affect the ability of the government to use incremental-funding approaches: "severable services contracts may be incrementally funded, while nonseverable services contracts must be fully funded at the time of the award of the contract." If you want to "smooth" your costs across multiple fiscal years, a severable service allows for funding only when the need arises in the fiscal year. In other words, from the perspective of incremental-funding, a severable service is advantageous.
 
 As readers of this blog may know, agile delivery contemplates the notion of delivering working software in increments (typically called "sprints"). So, which is it? Are agile services severable?
 
@@ -25,9 +25,9 @@ The GAO Redbook, the primary reference for federal fiscal-law issues, offers a "
 
 On one hand, you can certainly argue that agile software delivery--delivered in sprints or releases--is a severable service because you should have working software at the conclusion of each sprint. If you have a team that delivers working software, it's not "wasted."
 
-On the other, if you are purchasing _outcomes_ and allow the team to define its methodology for delivery, and not just buying a delivery team for a set number of sprints, then you have a nonseverable service.
+On the other hand, if you are purchasing _outcomes_ and allow the team to define its methodology for delivery, and not just buying a delivery team for a set number of sprints, then you have a nonseverable service.
 
-Some folks focus on contract type when dealing with the analysis of severability. They argue that FFP contracts are nonseverable and T&M contracts are. But this analysis seems to be disfavored by GAO ("After a confusing start, we have determined that the type of contract does not affect the severable versus nonseverable distinction"). To me, the correct analysis is whether you're buying an outcome or only buying capacity.
+Some folks focus on contract type when dealing with the analysis of severability. They argue that firm-fixed-price contracts are nonseverable and time-and-materials contracts are. But this analysis seems to be disfavored by GAO ("After a confusing start, we have determined that the type of contract does not affect the severable versus nonseverable distinction"). To me, the correct analysis is whether you're buying an outcome or only buying capacity.
 
 By way of specific example, suppose you have a legacy web application that needs replacing. If you structure your contract as a "modernization" initiative separate from the underlying application, and you hire a team that delivers incrementally using agile methodologies, then you've got a severable service. On the other hand, if you focus on the value of decommissioning the legacy application, and identify objectives around users actually, ya know, _using_ the modernized application, then it's a nonseverable service because half the code doesn't meet your objectives. You've still got a legacy web application.
 
