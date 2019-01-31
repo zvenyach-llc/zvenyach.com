@@ -1,5 +1,11 @@
 [["comments"]]
-post=""
-datestamp = ""
-username = ""
-comment = ""
+post = "/blog/are-agile-services-severable/"
+datestamp = "2019-01-31"
+username = "David Reed"
+comment = "Your analysis--\"buying an outcome or only buying capacity\"--is good. But if a contract has several defined outcomes (deliverables) that would be useful to the government even if not all are delivered, then each deliverable could be ordered and funded in a different fiscal year to smooth the cost.\nIf the government is only buying capacity, then it is not only a severable service, it is using \"agile\" as a fig leaf for a labor-hour contract."
+
+[["comments"]]
+post = "/blog/are-agile-services-severable/"
+datestamp = "2019-01-31"
+username = "Dave Zvenyach"
+comment = "Just so, David! Thanks for the comment!"
